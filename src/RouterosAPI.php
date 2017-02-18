@@ -16,8 +16,8 @@
  * github repo created by James Turner 18/02/17
  *
  ******************************/
-namespace jimcturner\MikrotikApi;
-
+//namespace jimcturner\MikrotikApi;
+namespace cake;
 class RouterosAPI
 {
     var $debug     = false; //  Show debug information
