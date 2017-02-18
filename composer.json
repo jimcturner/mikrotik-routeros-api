@@ -2,7 +2,7 @@
     "name": "jimcturner/mikrotik-routeros-api",
     "autoload": {
         "psr-0" : {
-            "couldbeanything" : "src"
+            "couldbeanything" : "srca"
         }
     }
 }
