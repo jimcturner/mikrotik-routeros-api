@@ -17,7 +17,7 @@
  *
  ******************************/
 //namespace jimcturner\MikrotikApi;
-namespace cake;
+//namespace cake;
 class RouterosAPI
 {
     var $debug     = false; //  Show debug information
