@@ -1,0 +1,8 @@
+{
+    "name": "jimcturner/mikrotik-routeros-api",
+    "autoload": {
+        "psr-0" : {
+            "jimcturner\\MikrotikApi" : "src"
+        }
+    }
+}
